@@ -1,0 +1,14 @@
+1. 0 7-19/1 * * 1-6 curl --request GET 'http://www.elevenia.co.id/prd-apple-iphone-7-plus-black-128gb-garansi-6242166' >> /usr/bin/home/m26413025
+    if( price normalDisc notranslate == 15000000) then
+	echo "price is 15000000" | mail -s "subject" user@email.com
+
+2. #!/bin/bash 
+
+file=ipv6.csv         
+
+while read line do outfile=$(echo $line | awk 'BEGIN { FS = "/" } ; {print $NF}') curl -o 
+"http://stats.labs.apnic.net/ipv6/ID"                  
+preg_match('#<tabel[^?]table_div>(.+?)</table>)
+done < "$/home/ipv6.csv"
+
+
